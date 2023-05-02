@@ -1,2 +1,2 @@
 # RGC-quantifier
-🔬 Quarto notebook retina ganglion cell counting with object detection
+🔬 Quarto notebook of retina ganglion cell counting with object detection
